@@ -1,8 +1,20 @@
 {
   "name": "minspec/minspec",
-  "description": "Package-first application composition for Symfony.",
-  "type": "library",
+  "description": "Namespace anchor and future metapackage for MinSpec, an independent package-first Symfony composition project.",
+  "type": "metapackage",
   "license": "MIT",
+  "homepage": "https://github.com/minspec",
+  "keywords": [
+    "symfony",
+    "composer",
+    "metapackage",
+    "package-composition",
+    "ai-tooling"
+  ],
+  "support": {
+    "issues": "https://github.com/minspec/minspec/issues",
+    "source": "https://github.com/minspec/minspec"
+  },
   "require": {
     "php": ">=8.4"
   }
