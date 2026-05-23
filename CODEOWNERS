@@ -1,0 +1,4 @@
+# CODEOWNERS
+
+# All namespace-anchor and metapackage changes require owner review.
+* @xormania
