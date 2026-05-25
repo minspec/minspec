@@ -60,13 +60,19 @@ MinSpec should be understood as:
 
 ## Incubation Contribution Posture
 
+MinSpec is public for visibility, review, reproducible feedback, and source-of-truth development.
+
+Public visibility does not imply public governance, public write access, or an open contribution process. During incubation, source mutation remains restricted to the maintainer and explicitly trusted collaborators.
+
+Pull requests are enabled but restricted to collaborators only. Only users with repository write, maintain, or admin access may open pull requests.
+
+Collaborator PR access is an operational mechanism for trusted maintainers and approved collaborators. It is not a public contribution path.
+
 During incubation, MinSpec is not accepting unsolicited external contributors, code pull requests, documentation pull requests, package submissions, recipe submissions, workflow changes, dependency changes, or AI-generated contribution patches.
 
-Public feedback may still be useful.
+Issues may remain available where enabled for questions, reproducible bug reports, documentation clarity suggestions, security-report routing, and design feedback. Opening an issue or providing feedback does not grant contribution authority, source authority, maintainer status, or approval to submit code changes.
 
-Public write authority is not open.
-
-Unsolicited pull requests may be closed without review.
+AI agents, GitHub Apps, bots, automation, Dependabot, Copilot agents, browser agents, and external tools are not maintainers and do not gain source authority from collaborator-only PR settings.
 
 See `CONTRIBUTING.md` for details.
 

@@ -8,7 +8,7 @@ Support should be treated as best-effort while the foundation is being establish
 
 ## Project Support
 
-Use GitHub issues for:
+Use GitHub issues where enabled for:
 
 - questions
 - documentation clarity suggestions
@@ -18,11 +18,17 @@ Use GitHub issues for:
 - reproducible bugs in MinSpec packages
 - evidence that an existing claim, package boundary, or workflow is wrong
 
+Opening an issue or providing feedback does not grant contribution authority, source authority, maintainer status, or approval to submit code changes.
+
 ---
 
 ## Incubation Boundary
 
-Support issues and feedback do not create contributor status, source authority, or permission to open unsolicited pull requests.
+Support issues and feedback do not create contributor status, source authority, public governance, public write access, or permission to open unsolicited pull requests.
+
+Pull requests are enabled but restricted to collaborators only. Only users with repository write, maintain, or admin access may open pull requests.
+
+Collaborator PR access is an operational mechanism for trusted maintainers and approved collaborators. It is not a public contribution path.
 
 During incubation, MinSpec is not accepting unsolicited external contributors, code pull requests, documentation pull requests, package submissions, recipe submissions, workflow changes, dependency changes, or AI-generated contribution patches.
 
