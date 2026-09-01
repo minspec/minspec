@@ -60,6 +60,8 @@ Added 2026-09-01 by maintainer decision.
 
 Work produced by AI agents operating under the maintainer's explicit direction is maintainer work, not an external contribution. This section exists so the incubation rules above cannot be misread as barring the maintainer's own development process.
 
+This lane is not a contribution program. It is an internal operating mechanism, documented publicly for transparency; it creates no path for external contributors, human or agent, and the maintainer may change or withdraw it at any time.
+
 A change enters through this lane only when all of the following hold:
 
 - the maintainer directed the work and named its scope
